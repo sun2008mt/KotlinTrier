@@ -6,6 +6,10 @@ import org.omg.PortableInterceptor.INACTIVE
  * Created by Administrator on 2017/7/25.
  */
 
+/*
+* 基本语法
+* */
+
 //默认导入包：
 /*
 *  kotlin.*
